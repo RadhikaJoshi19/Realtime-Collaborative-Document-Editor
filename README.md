@@ -132,4 +132,8 @@ Cloud deployment
 
 *OUTPUT*:
 
-https://github.com/RadhikaJoshi19/Realtime-Collaborative-Document-Editor/issues/1#issue-4007793689
+<img width="1873" height="976" alt="Image" src="https://github.com/user-attachments/assets/3051a81f-3925-46c8-b82f-1ebf9d5ca5e2" />
+<img width="1909" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a34e3d35-ad38-400b-8dd7-11012b9d45d4" />
+
+<img width="1914" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1f039a4d-c2ae-4730-bb84-2dbc3042ea2b" />
+<img width="1912" height="1064" alt="Image" src="https://github.com/user-attachments/assets/bec0c8a1-c668-40f6-8710-c17529481d17" />
